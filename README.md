@@ -1,4 +1,4 @@
-###Treasure Hunt Agents and Search Algorithms
+Treasure Hunt Agents and Search Algorithms:
 
 This project implements a dynamic 2D treasure hunt environment designed to evaluate intelligent agents and classical search algorithms. The game is set in a partially observable grid world where an agent must navigate through tiles to collect randomly placed coins while avoiding dynamically changing walls.
 
